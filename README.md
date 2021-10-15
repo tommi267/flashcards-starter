@@ -25,9 +25,9 @@
 
 ## Features to be Added
 
-- different set of questions and answers
-- show answers to incorrect
-- timer
+- Different set of questions and answers
+- Show answers to incorrect
+- Add a timer to show users how long it took them to complete 
 
 ## Contributors
 
