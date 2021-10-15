@@ -16,11 +16,12 @@
 - Access the root folder in your Terminal
 - Type `node index.js` and hit enter to begin
 - Use Up & Down arrow keys to select answers and hit enter to confirm answer
-- Control + C to end 
+- Control + C to end
 
 ## Demonstration
 
-![FlashCards](http://www.giphy.com/gifs/pagYpSqqxNJvwZE7tM)
+![FlashCard](https://user-images.githubusercontent.com/54600612/137424007-259cfe05-9708-4f18-a33a-31e84c068178.gif)
+
 
 ## Features to be Added
 
